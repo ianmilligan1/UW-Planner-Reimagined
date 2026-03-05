@@ -1,6 +1,6 @@
 # UW Planner Reimagined
 
-A modern, responsive web application for managing university annual planning initiatives. Built as a proof of concept for modernising the University of Waterloo's legacy UW Planner Annual Plan interface.
+A modern, responsive web application for managing university annual planning initiatives. Built as a proof of concept for modernising the University of Waterloo's legacy UW Planner Annual Plan interface. This is mostly just Ian having fun.
 
 ## Tech Stack
 
